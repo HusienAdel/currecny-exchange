@@ -1,0 +1,11 @@
+{
+	"name": "fe-masters",
+	"version": "1.0.0",
+	"main": "fun.js",
+	"scripts": {
+		"sass": "sass --watch style.scss style.css"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
